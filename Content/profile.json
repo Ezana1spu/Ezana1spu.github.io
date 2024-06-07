@@ -1,4 +1,5 @@
-"About": {
+{
+  "About": {
   "Name": "Ezana Girmay",
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
@@ -32,3 +33,4 @@
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   }
+}
