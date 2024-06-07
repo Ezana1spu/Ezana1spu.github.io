@@ -31,6 +31,13 @@
     "Desc": "Making Threads in C.",
     "GitHubRepo": "https://github.com/Ezana1spu/Threads.git",
     "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "DetailImages": []
+  },
+  "Project2": {
+    "Title": "Parking Portal",
+    "Desc": "Making Threads in C.",
+    "GitHubRepo": "https://github.com/Ezana1spu/Parking-Portal.git",
+    "MainImage": "Project 2.png",
+    "DetailImages": []
   }
 }
