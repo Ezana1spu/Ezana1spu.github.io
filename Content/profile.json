@@ -4,7 +4,7 @@
   "Currently": "Computer Science Student",
   "Headshot": "",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Ezana Girmay. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi, I am Ezana Girmay. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Being some who was born and raise in the greater Seattle area I enjoy spending my free time outdoor and in nature. Some of my hobbies out side the classroom include, exploring the many hiking trails we have here in Washington state. I also enjoy playing sports like tennis and soccer."
 },
 "Contact": {
   "EMail": "girmaye@spu.edu",
@@ -17,12 +17,12 @@
   "ExperienceText": "During my time at SPU I have been introduced to a wide variety of computer science languages. This has allowed me to quickly pick up new languages and have a strong foundation in the most popular ones. I have also become familiar with many concepts like data structures and run time.",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
-  "Graduation": "June 2023",
+  "Graduation": "June 2025",
   
-  "Employment": "Seattle Pacific University",
+  "Employment": "Western Washington University",
   "Role": "Computer Science Lab Assistant",
   
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
+  "Skills": ["C++", " Python", " CSS"," HTML"],
   
   "Resume": "EzanaResume.pdf"  
 },

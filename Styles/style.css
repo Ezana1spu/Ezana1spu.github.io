@@ -182,7 +182,7 @@ project-detail a {
     width: 15%;
     height: auto;
     border-radius: 50%;
-    border: 5px solid black;
+    /* border: 5px solid black; */
     background-position: center;
     background-size: cover;
     margin: 10px 20px;
