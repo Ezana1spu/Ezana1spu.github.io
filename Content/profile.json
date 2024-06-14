@@ -11,7 +11,7 @@
   "Phone": "",
   "Portfolio": "https://www.github.com",
   "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
+  "GitHub": "hhttps://github.com/Ezana1spu"
 },
 "Experience": {
   "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
@@ -30,7 +30,7 @@
     "Title": "Threads",
     "Desc": "Making Threads in C.",
     "GitHubRepo": "https://github.com/Ezana1spu/Threads.git",
-    "MainImage": "P1Main.png",
+    "MainImage": "ThreadsMainPhoto.png",
     "DetailImages": []
   },
   "Project2": {
