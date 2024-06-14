@@ -11,7 +11,7 @@ import { ConfigSingleton } from "./GetProfile.js";
   
 function updateHTML(configData) {
   document.querySelector("#pfThumbnail").src = "Content/".concat(configData.About.Thumbnail);
-  document.querySelector("#pfLinkedIn").href = configData.Contact.LinkedIn;
+  //document.querySelector("#pfLinkedIn").href = configData.Contact.LinkedIn;
   document.querySelector("#pfGitHub").href = configData.Contact.GitHub;
 
   // Page Detail
@@ -21,16 +21,16 @@ function updateHTML(configData) {
   document.querySelector("#pfSchool").innerHTML = configData.Experience.School;
   document.querySelector("#pfMajor").innerHTML = configData.Experience.Major;
   document.querySelector("#pfGraduation").innerHTML = configData.Experience.Graduation;
-  document.querySelector("#pfEducationText").innerHTML = configData.Experience.EducationText;
+  //document.querySelector("#pfEducationText").innerHTML = configData.Experience.EducationText;
 
   document.querySelector("#expEmp>h2").innerHTML = "Employment";
   document.querySelector("#pfEmployment").innerHTML = configData.Experience.Employment;
   document.querySelector("#pfRole").innerHTML = configData.Experience.Role;
-  document.querySelector("#pfEmploymentText").innerHTML = configData.Experience.EmploymentText;
+  //document.querySelector("#pfEmploymentText").innerHTML = configData.Experience.EmploymentText;
 
   document.querySelector("#expSkills>h2").innerHTML = "Skills";
   document.querySelector("#pfSkills").innerHTML = configData.Experience.Skills.toString();
-  document.querySelector("#pfSkillsText").innerHTML = configData.Experience.SkillsText;
+  //document.querySelector("#pfSkillsText").innerHTML = configData.Experience.SkillsText;
 
   // document.querySelector("#pfResume").href = "./Content/".concat(configData.Experience.Resume);
   // document.querySelector("#pfResume").href = "./Content/resume.pdf";
