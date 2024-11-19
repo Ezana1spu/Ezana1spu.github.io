@@ -32,6 +32,10 @@ function updateHTML(configData) {
   document.querySelector("#pfSkills").innerHTML = configData.Experience.Skills.toString();
   //document.querySelector("#pfSkillsText").innerHTML = configData.Experience.SkillsText;
 
+  document.querySelector("#expAWS>h2").innerHTML = "AWS";
+  document.querySelector("#pfAWS").innerHTML = configData.Experience.AWS.toString();
+  //document.querySelector("#pfAWSText").innerHTML = configData.Experience.AWSText;
+
   // document.querySelector("#pfResume").href = "./Content/".concat(configData.Experience.Resume);
   // document.querySelector("#pfResume").href = "./Content/resume.pdf";
   document.querySelector("#pfResume").onclick = () => {
