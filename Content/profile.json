@@ -23,6 +23,7 @@
   "Role": "Computer Science Lab Assistant",
   
   "Skills": ["C++", " Python", " CSS"," HTML"],
+  "AWS": ["Passed the AWS Certification"],
   
   "Resume": "EzanaResume.pdf"  
 },
