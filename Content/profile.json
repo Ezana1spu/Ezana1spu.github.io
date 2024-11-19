@@ -23,8 +23,7 @@
   "Role": "Computer Science Lab Assistant",
   
   "Skills": ["C++", " Python", " CSS"," HTML"],
-  "AWS": ["Passed Amazon Web Services Certified Developer Associate Exam. Proficent in using a multitude of AWS services such as DynomDB, Amazon EC2, EBS, and S3 buckets. Able to build and deploy application in a cost effective way. 
-  While also prioritizing security and safty to ensure data is not comprimised."],
+  "AWS": ["Passed Amazon Web Services Certified Developer Associate Exam. Proficient in using a multitude of AWS services such as DynamoDB, Amazon EC2, EBS, and S3 buckets. Able to build and deploy application in a cost effective way. While also prioritizing security and safty to ensure data is not compromised."],
   
   "Resume": "EzanaResume.pdf"  
 },
