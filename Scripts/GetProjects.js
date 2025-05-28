@@ -16,7 +16,7 @@ function updateHTML(configData) {
   let projectTitle;
 
   document.querySelector("#pfThumbnail").src = "Content/".concat(configData.About.Thumbnail);
-  //document.querySelector("#pfLinkedIn").href = configData.Contact.LinkedIn;
+  document.querySelector("#pfLinkedIn").href = configData.Contact.LinkedIn;
   document.querySelector("#pfGitHub").href = configData.Contact.GitHub;
   
   projectTitle = configData.Project1.Title;

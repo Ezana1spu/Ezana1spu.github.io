@@ -4,41 +4,48 @@
   "Currently": "Computer Science Student",
   "Headshot": "",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Ezana Girmay. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Being someone who was born and raised in the greater Seattle area I enjoy spending my free time outdoor and in nature. Some of my hobbies out side the classroom include, exploring the many hiking trails we have here in Washington state. I also enjoy playing sports like tennis and soccer."
-},
-"Contact": {
-  "EMail": "girmaye@spu.edu",
-  "Phone": "",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://github.com/Ezana1spu"
-},
-"Experience": {
-  "ExperienceText": "During my time at SPU I have been introduced to a wide variety of computer science languages. This has allowed me to quickly pick up new languages and have a strong foundation in the most popular ones. I have also become familiar with many concepts like data structures and run time.",
-  "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2025",
-  
-  "Employment": "Western Washington University",
-  "Role": "Computer Science Lab Assistant",
-  
-  "Skills": ["C++", " Python", " CSS"," HTML"],
-  "AWS": ["Passed Amazon Web Services Certified Developer Associate Exam. Proficient in using a multitude of AWS services such as DynamoDB, Amazon EC2, EBS, and S3 buckets. Able to build and deploy applications in a cost effective way. While also prioritizing security and safety to ensure data is not compromised."],
-  
-  "Resume": "EzanaResume.pdf"  
-},
-"Project1": {
-    "Title": "Threads",
-    "Desc": "Making Threads in C.",
-    "GitHubRepo": "https://github.com/Ezana1spu/Threads.git",
-    "MainImage": "ThreadsMainPhoto.png",
-    "DetailImages": []
+  "AboutText": "Hi, I’m Ezana Girmay — a passionate computer science student currently pursuing my undergraduate degree at Seattle Pacific University. I have a strong interest in software development and programming, with a particular focus on C++. I’m dedicated to continually expanding my technical skills and deepening my understanding of computer science.<br><br>I thrive on challenging programming projects and enjoy working in collaborative environments where I can both contribute and grow. I value the opportunity to learn from others while sharing my own insights <br><br>Born and raised in the greater Seattle area, I’ve developed a deep appreciation for the outdoors. In my free time, I enjoy exploring Washington’s many hiking trails and staying active through sports like tennis and soccer." 
   },
+  "Contact": {
+    "EMail": "girmay.ezana@gmail.com",
+    "Phone": "",
+    "Portfolio": "https://www.github.com",
+    "LinkedIn": "https://www.linkedin.com/in/ezana-girmay/",
+    "GitHub": "https://github.com/Ezana1spu"
+  },
+  "Experience": {
+    "ExperienceText": "During my time at SPU I have been introduced to a wide variety of computer science languages. This has allowed me to quickly pick up new languages and have a strong foundation in the most popular ones. I have also become familiar with many concepts like data structures and run time.",
+    "School": "Seattle Pacific University",
+    "Major": "Computer Science",
+    "Graduation": "June 2025",
+    
+    "Employment": "Western Washington University",
+    "Role": "Computer Science Lab Assistant",
+    
+    "Skills": ["C++", " Python", " CSS"," HTML"],
+    "AWS": ["Passed Amazon Web Services Certified Developer Associate Exam. Proficient in using a multitude of AWS services such as DynamoDB, Amazon EC2, EBS, and S3 buckets. Able to build and deploy applications in a cost effective way. While also prioritizing security and safety to ensure data is not compromised."],
+    
+    "Resume": "EzanaResumeCS.pdf"  
+  },
+  "Project1": {
+      "Title": "Threads (SPU:CSC3350  March 2023 - May 2024)",
+      "Desc": "Making Threads in C.",
+      "GitHubRepo": "https://github.com/Ezana1spu/Threads.git",
+      "MainImage": "ThreadsMainPhoto.png",
+      "DetailImages": []
+    },
   "Project2": {
-    "Title": "Parking Portal",
-    "Desc": "Parking Portal is an application that hopes to provide easy and convenient parking for SPU students. With an app on their phones, students can make an account using their SPU emails and buy parking passes. These passes will allow them to park at any SPU parking lot they want. To better support the user's needs, we allow them to either buy a pass by the hour or buy a pass for the whole day. By allowing students to save their car's license plate and their credit card information they will be able to purchase these passes in a matter of seconds. And on the unfortunate chance they are issued a ticket, our users can pay for it directly on the app. This application has a System Proposal and System Specification completed, which can both be found in Git Hub. The System Proposal gives a complete breakdown of what the application will entail, including any requirements that need to be met in order to build it. The System Specification also gives an overview of the application software layout and includes UI designs for the app.",
-    "GitHubRepo": "https://github.com/Ezana1spu/Parking-Portal.git",
-    "MainImage": "Project 2.png",
-    "DetailImages": []
+      "Title": "Parking Portal (SPU:CSC3150  March 2023 - May 2024)",
+      "Desc": "Parking Portal is an application that hopes to provide easy and convenient parking for SPU students. With an app on their phones, students can make an account using their SPU emails and buy parking passes. These passes will allow them to park at any SPU parking lot they want. To better support the user's needs, we allow them to either buy a pass by the hour or buy a pass for the whole day. By allowing students to save their car's license plate and their credit card information they will be able to purchase these passes in a matter of seconds. And on the unfortunate chance they are issued a ticket, our users can pay for it directly on the app. This application has a System Proposal and System Specification completed, which can both be found in Git Hub. The System Proposal gives a complete breakdown of what the application will entail, including any requirements that need to be met in order to build it. The System Specification also gives an overview of the application software layout and includes UI designs for the app.",
+      "GitHubRepo": "https://github.com/Ezana1spu/Parking-Portal.git",
+      "MainImage": "Project 2.png",
+      "DetailImages": []
+  },
+  "Project3": {
+      "Title": "CapSource (SPU:CSC4898 SEP. 2024 - May 2025)",
+      "Desc": "Developed and deployed a crowed funded caption correction application within a team. Used extensions on browsers and web site to allow users to quickly make suggested changes to video publisher. This allowed the video publisher to produce correct transcripts for their video with our spending hours correcting it themselves.",
+      "GitHubRepo": "https://github.com/SPU-CapSource",
+      "MainImage": "CapSource.png",
+      "DetailImages": []
   }
 }
